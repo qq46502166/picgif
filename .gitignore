@@ -10,7 +10,7 @@ $RECYCLE.BIN/
 .idea/
 .project
 .settings
-public/
+public/uploads/
 composer.lock
 vendor/
 cache/
